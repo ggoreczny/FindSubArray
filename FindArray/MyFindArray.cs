@@ -4,10 +4,6 @@ namespace FindArray
 {
     public class MyFindArray
     {
-        static void Main(string[] args)
-        {
-        }
-
         public int FindArray(int[] array, int[] subArray)
         {
             if (!subArray.Any())
